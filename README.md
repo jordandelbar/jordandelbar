@@ -6,7 +6,7 @@ Apart from programming, I also enjoy playing the piano in my free time.
 
 **🖥️ Technologies**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordandelbar&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordandelbar&layout=compact&hide=jupyter%20notebook)
 
 Languages:
 
