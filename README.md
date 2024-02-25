@@ -1,6 +1,6 @@
 **Hello 👋 I'm Jordan**
 
-I am a Bio-science Engineer that works in Data & Machine Learning.
+I am a bioscience engineer that works in data & machine learning.
 
 Apart from programming, I also enjoy playing the piano in my free time.
 
