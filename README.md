@@ -10,7 +10,7 @@ Apart from programming, I also enjoy playing the piano in my free time.
 
 Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=python,rust&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,golang,rust&perline=3)](https://skillicons.dev)
 
 **📬 Contact Me**
 
