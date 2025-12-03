@@ -1,7 +1,5 @@
 **Hello 👋 I'm Jordan**
 
-I'm a Machine Learning Engineer | Data Engineer who loves coding in Go and Rust.
-
 Outside of programming, I enjoy playing the piano in my free time.
 
 **🖥️ Technologies**
